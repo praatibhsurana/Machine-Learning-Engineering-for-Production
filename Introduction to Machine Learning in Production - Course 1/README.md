@@ -4,3 +4,8 @@ This is the link to the original repository for the labs in course 1 : https://g
 #### Week 1 reference material 
 1) https://towardsdatascience.com/machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb0
 2) https://youtu.be/06-AZXmwHjo 
+
+#### Week 2 reference material 
+1) https://blog.ml.cmu.edu/2020/08/31/3-baselines/
+2) https://arxiv.org/abs/1912.02292
+
