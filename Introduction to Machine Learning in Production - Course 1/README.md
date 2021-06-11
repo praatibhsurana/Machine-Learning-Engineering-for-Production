@@ -9,3 +9,6 @@ This is the link to the original repository for the labs in course 1 : https://g
 1) https://blog.ml.cmu.edu/2020/08/31/3-baselines/
 2) https://arxiv.org/abs/1912.02292
 
+#### Week 3 reference material 
+1) https://blog.tensorflow.org/2021/01/ml-metadata-version-control-for-ml.html
+2) https://cloud.google.com/blog/products/ai-machine-learning/key-requirements-for-an-mlops-foundation
