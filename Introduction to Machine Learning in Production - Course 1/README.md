@@ -2,7 +2,7 @@
 This is the link to the original repository for the labs in course 1 : https://github.com/https-deeplearning-ai/MLEP-public/tree/main/course1
 
 #### My Medium articles on this topic
-1) [An Introduction to Machine Learning Engineering for Production - Part 1](https://praatibhsurana.medium.com/an-introduction-to-machine-learning-engineering-for-production-part-1-2247bbca8a61)
+1) [An Introduction to Machine Learning Engineering for Production /MLOps — Concept and Data drifts](https://praatibhsurana.medium.com/an-introduction-to-machine-learning-engineering-for-production-part-1-2247bbca8a61)
 
 #### Week 1 reference material 
 1) https://towardsdatascience.com/machine-learning-in-production-why-you-should-care-about-data-and-concept-drift-d96d0bc907fb0
