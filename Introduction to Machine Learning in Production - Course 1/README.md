@@ -1,7 +1,7 @@
 ### You can find all course 1 relevant material and jupyter notebooks here!
 This is the link to the original repository for the labs in course 1 : https://github.com/https-deeplearning-ai/MLEP-public/tree/main/course1
 
-#### My Medium articles on this topic
+#### My articles on this topic
 1) [An Introduction to Machine Learning Engineering for Production /MLOps — Concept and Data drifts](https://praatibhsurana.medium.com/an-introduction-to-machine-learning-engineering-for-production-part-1-2247bbca8a61)
 
 #### Week 1 reference material 
